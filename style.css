@@ -1,0 +1,76 @@
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    font-size: 65px;
+    font-style: normal;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+    color: #FE5F55;
+    background-color: #EEF5DB;
+    letter-spacing: 0.01em;
+    
+  }
+  
+  h2 {
+    font-family: 'Lobster', serif;
+    font-size: 27px;
+    font-style: normal;
+    text-align: left;
+    color: #B8D8D8;
+  }
+  
+  h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    text-align: left;
+    color: #EEF5DB;
+  }
+  
+  h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-style: bold;
+    font-size: 20px;
+    color: #EEF5DB;
+  }
+  
+  td {
+    font-family: 'Monserrat', sans-serif;
+    font-size: 17px;
+    color: #EEF5DB;
+    font-weight: bold;
+  }
+  
+  ul {
+    font-family: 'Monserrat', sans-serif;
+    font-size: 15px;
+    text-align: left;
+    color: #F35F55;
+    font-weight: light;
+  }
+  
+  ol {
+    font-family: 'Monserrat', sans-serif;
+    font-size: 15px;
+    text-align: left;
+    color: #F35F55;
+    font-weight: bold;
+  }
+  
+  body {
+    background-color: #4F6367;
+    
+  }
+  
+  table {
+    background: rgb(79,99,103);
+  background: linear-gradient(180deg, rgba(79,99,103,1) 0%, rgba(254,95,85,1) 100%);
+    border: #EEF5DB;
+    color: #EEF5DB;
+    text-align: center;
+  }
+  
+  body {
+    background: ('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-VMcHjTjUupzyoD3uMznWZ1XmnS1lt9g8jitNNuOkwd3b5SJO');
+    font-family: 'Montserrat', sans-serif;
+  }
